@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Duy Thinh 👋
 
-<!--
-**DuyThinh2003/DuyThinh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying at University of Information Technology - VNUHMC
+- 🌱 I’m currently learning things that I think will be good for me in the future
+- 🤔 I’m looking for help with design and UI/UX
+- 💬 Ask me about anything
+### Contact me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Duy Thịnh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Duy Thịnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Duy Thịnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[facebook]: https://www.facebook.com/dduythinhhh/
+[instagram]: https://www.instagram.com/duythinh_zezn/
+[gmail]: thinh195thinh@gmail.com
