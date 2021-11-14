@@ -8,6 +8,8 @@
 
 [<img align="left" alt="Duy Thịnh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Duy Thịnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Duy Thịnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/dduythinhhh/
-[instagram]: https://www.instagram.com/duythinh_zezn/
+[instagram]: https://www.instagram.com/duythinh_zezn/ 
+[gmail]: mailto:thinh195thinh@gmail.com
