@@ -6,9 +6,9 @@
 - 💬 Ask me about anything
 ### Contact me:
 
-[<img align="left" alt="Duy Thịnh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Duy Thịnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Duy Thịnh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Duy Thịnh | Facebook" width="30px" src="https://img.icons8.com/fluency/30/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Duy Thịnh | Instagram" width="30px" src="https://img.icons8.com/fluency/30/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Duy Thịnh | Gmail" width="30px" src="https://img.icons8.com/fluency/30/000000/gmail-new.png" />][gmail]
 
 [facebook]: https://www.facebook.com/dduythinhhh/
 [instagram]: https://www.instagram.com/duythinh_zezn/ 
